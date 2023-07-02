@@ -1,6 +1,6 @@
 # stage_test
 
-A Stage Test
+This is an assignment given by Stage
 
 ## Getting Started
 
